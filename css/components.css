@@ -1,0 +1,21 @@
+/* card component */
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card-title {
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Outfit", serif;
+    margin: 16px 0;
+}
+
+.card-description {
+    color: hsl(216, 15%, 48%);
+    letter-spacing: 0.2px;
+    font-family: "Outfit", serif;
+    font-size: 15px;
+    margin: 0;
+}

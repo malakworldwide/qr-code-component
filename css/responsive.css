@@ -1,0 +1,13 @@
+/* Mobile screen*/
+@media (max-width: 480px) {
+    .card {
+        width: 80%;
+    }
+}
+
+/* Desktop screen*/
+@media (min-width: 481px) {
+    .card {
+        width: 320px;
+    }
+}
